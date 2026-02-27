@@ -1,4 +1,4 @@
-# Institutional Grade Financial Tracker
+# Personal Financial Tracker
 
 A premium, state-of-the-art financial management platform designed for both personal and administrative oversight. Built with a modern tech stack, it features a stunning glassmorphic UI, real-time analytics, and enterprise-grade security.
 
