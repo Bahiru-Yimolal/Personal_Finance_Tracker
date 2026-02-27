@@ -68,7 +68,15 @@ Follow these steps to get the project running on your local machine.
     EMAIL_USER=your-email@gmail.com
     EMAIL_PASS=your-app-password
     ```
-4. Start the backend server:
+4. **Initial Seeding**: The first time you run the server, it will automatically create the default admin account and essential categories.
+   - **Default Admin Credentials**:
+     - **Username**: `admin`
+     - **Password**: `StrongPass123!`
+5. **(Optional) Seed Mock Data**: If you want to populate the platform with 10 test users and 100 sample transactions for testing, run:
+    ```bash
+    npm run seed
+    ```
+6. Start the backend server:
     ```bash
     npm run dev
     ```
