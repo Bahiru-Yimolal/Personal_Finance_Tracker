@@ -1,5 +1,5 @@
 // constants/apiTags.js
-export const BASE_URL = "http://localhost:5000/api";
+export const BASE_URL = "https://personal-finance-tracker.ilul-tech.com/api";
 export const API_TAGS = {
   USER: "User",
   FORM: "Form",
